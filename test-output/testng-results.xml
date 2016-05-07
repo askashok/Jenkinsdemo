@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59252" started-at="2016-05-07T10:03:36Z" finished-at="2016-05-07T10:04:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59252" started-at="2016-05-07T10:03:36Z" finished-at="2016-05-07T10:04:36Z">
+      <class name="Project.Mobile">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Project.Mobile@25618e91]" name="setUp" is-config="true" duration-ms="41218" started-at="2016-05-07T03:03:36Z" finished-at="2016-05-07T03:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ScrollToTab()[pri:0, instance:Project.Mobile@25618e91]" name="ScrollToTab" duration-ms="16831" started-at="2016-05-07T03:04:18Z" finished-at="2016-05-07T03:04:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrollToTab -->
+        <test-method status="PASS" signature="appiumStop()[pri:0, instance:Project.Mobile@25618e91]" name="appiumStop" is-config="true" duration-ms="1187" started-at="2016-05-07T03:04:34Z" finished-at="2016-05-07T03:04:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumStop -->
+      </class> <!-- Project.Mobile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
